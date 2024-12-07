@@ -1,0 +1,54 @@
+/*
+Theme Name: BlackBull
+Theme URI: https://blackbull.com
+Description: BlackBull
+Author: BlackBull
+Author URI: https://blackbull.com
+Template: hello-elementor
+Version: 2.0.0
+Text Domain: blackbull
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/* Add your custom styles here */
+body{
+    font-family: var(--e-global-typography-primary-font-family ), Sans-serif;
+}
+
+/* Padding for all elements */
+body > div > div:not(:has(.elementor-widget-template)) {
+--padding-inline-start: 32px;
+--padding-inline-end: 32px;
+}
+
+div:where([data-elementor-type="page"],[data-elementor-type="section"]) > div.e-con:not(:has(.elementor-widget-template)){
+--padding-inline-start: 32px;
+--padding-inline-end: 32px;
+}
+
+/* TV Chart Elemntor Widget  */
+.elementor-widget-tradingview_chart,.tradingview-widget-container,.elementor-widget-tradingview_chart .elementor-widget-container {
+display: flex;
+}
+
+
+.elementor-widget-tradingview_chart,.tradingview-widget-container,.elementor-widget-tradingview_chart .elementor-widget-container, #tradingview_id_chart {
+display: flex;
+flex-grow: 1;
+}
+
+/* Gravity Forms */
+.gform_wrapper.gravity-theme .gform_footer, .gform_wrapper.gravity-theme .gform_page_footer {
+margin: 0;
+padding: 0;
+}
+
+#gform_fields_1 input#gform_submit_button_1 {
+background-color: var(--e-global-color-9e24e91 );
+}
+
+#gform_fields_1 input#gform_submit_button_1:hover {
+background-color: var(--e-global-color-1e94d71 );
+}

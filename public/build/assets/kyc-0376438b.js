@@ -1,0 +1,1 @@
+import{Q as s}from"./bootstrap-249b0f62.js";const e=s("kyc",{state:()=>({options:null,countries:null}),actions:{async fetch(){await axios.post("/user/fetch/kyc/data").then(t=>{t.type=="success"?(this.options=t.options,this.countries=t.countries):$toast.error(t.message)}).catch(t=>{console.error("Error in fetch:",t)})}},persist:!0});export{e as u};

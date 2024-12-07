@@ -1,0 +1,1010 @@
+[14-Oct-2024 21:23:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/solidbulltrades/public_html/vendor/composer/platform_check.php on line 24
+[14-Oct-2024 21:24:31 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/solidbulltrades/public_html/vendor/composer/platform_check.php on line 24
+[14-Oct-2024 21:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275
+[14-Oct-2024 21:30:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_init() in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php:275
+Stack trace:
+#0 /home/solidbulltrades/public_html/vendor/ccxt/ccxt/ccxt.php(93): require_once()
+#1 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(55): require('/home/solidbull...')
+#2 /home/solidbulltrades/public_html/vendor/composer/autoload_real.php(38): composerRequire3e41a8a3a63ae067d2dbf4c6bd4bc88b('5b6d49eb231faf6...', '/home/solidbull...')
+#3 /home/solidbulltrades/public_html/vendor/autoload.php(12): ComposerAutoloaderInit3e41a8a3a63ae067d2dbf4c6bd4bc88b::getLoader()
+#4 /home/solidbulltrades/public_html/public/index.php(34): require('/home/solidbull...')
+#5 {main}
+  thrown in /home/solidbulltrades/public_html/vendor/ccxt/ccxt/php/Precise.php on line 275

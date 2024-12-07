@@ -1,0 +1,43 @@
+* * * * * curl -s https://altcryptogems.com/cron
+* * * * * curl -s https://altcryptogems.com/cron/practice
+* * * * * curl -s https://altcryptogems.com/cron/schedule
+* * * * * curl -s curl -s https://altcryptogems.com/cron/investment/check
+* * * * * curl -s https://altcryptogems.com/cron/bot/result
+* * * * * curl -s https://altcryptogems.com/cron/bot/missed
+* * * * * curl -s https://altcryptogems.com/cron/mlm/ranks
+* * * * * curl -s https://altcryptogems.com/cron/forex/missed
+* * * * * curl -s https://altcryptogems.com/cron/mlm/daily
+* * * * * curl -s https://altcryptogems.com/cron/mlm/membership
+* * * * * curl -s https://altcryptogems.com/cron/provider/marketsToTable
+* * * * * curl -s https://altcryptogems.com/cron/provider/currencies
+* * * * * curl -s https://altcryptogems.com/cron/provider/currenciesToTable
+* * * * * curl -s https://altcryptogems.com/cron/provider/pairsToTable
+* * * * * curl -s https://altcryptogems.com/cron/provider/fetch/order
+* * * * * curl -s https://altcryptogems.com/cron/staking/profit
+* * * * * curl -s https://altcryptogems.com/cron/utxo/verify/transaction
+* * * * * curl -s https://altcryptogems.com/cron/mailwiz/send
+* * * * * curl -s https://altcryptogems.com/cron/provider/futuresToTable
+0,30 * * * * cd /home/altcryptogems/public_html && php artisan process:tmp-transaction-histories
+0 0 * * * cd /home/altcryptogems/public_html && php artisan process:crypto-news
+
+
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-practice
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-schedule
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-investment-check
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-bot-result
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-bot-missed
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-mlm-ranks
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-forex-missed
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-forex-result
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-mlm-daily
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-mlm-membership
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-provider-marketsToTable
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-provider-currencies
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-provider-currenciesToTable
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-provider-pairsToTable
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-provider-fetch-order
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-staking-profit
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-utxo-verify-transaction
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-mailwiz-send
+* * * * * cd /home/altcryptogems/public_html && php artisan process:cron-provider-futuresToTable

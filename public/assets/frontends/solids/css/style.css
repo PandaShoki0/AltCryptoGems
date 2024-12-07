@@ -1,0 +1,13 @@
+.bbm_row {
+    display: flex;
+}
+
+.bbm_column {
+    flex: 50%;
+    padding: 10px;
+}
+
+.h4 {
+    text-align: center;
+    color:#0064ff;
+}

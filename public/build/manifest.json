@@ -1,0 +1,1847 @@
+{
+  "ButtonLoading.css": {
+    "file": "assets/ButtonLoading-422d34e0.css",
+    "src": "ButtonLoading.css"
+  },
+  "LoadingCircles.css": {
+    "file": "assets/LoadingCircles-9ea86c11.css",
+    "src": "LoadingCircles.css"
+  },
+  "Markets.css": {
+    "file": "assets/Markets-70f27e4b.css",
+    "src": "Markets.css"
+  },
+  "ProductCard.css": {
+    "file": "assets/ProductCard-7edd61b7.css",
+    "src": "ProductCard.css"
+  },
+  "_ButtonLoading-97716eba.js": {
+    "css": [
+      "assets/ButtonLoading-422d34e0.css"
+    ],
+    "file": "assets/ButtonLoading-97716eba.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_Col-4463c6d7.js": {
+    "file": "assets/Col-4463c6d7.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_Filter-f10b47ed.js": {
+    "file": "assets/Filter-f10b47ed.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_ListItem-0775ff45.js": {
+    "file": "assets/ListItem-0775ff45.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_LoadingCircles-fe2f796e.js": {
+    "css": [
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "file": "assets/LoadingCircles-fe2f796e.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_Markets-ba73e845.js": {
+    "css": [
+      "assets/Markets-70f27e4b.css",
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "file": "assets/Markets-ba73e845.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_market-4a8d5095.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_PriceInput-9a4e96a7.js": {
+    "file": "assets/PriceInput-9a4e96a7.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_ProductCard-9894df8d.js": {
+    "css": [
+      "assets/ProductCard-7edd61b7.css"
+    ],
+    "file": "assets/ProductCard-9894df8d.js",
+    "imports": [
+      "_PurchaseModal-34ca6ee5.js",
+      "_ecommerce-8a3dfd9f.js",
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_PurchaseModal-34ca6ee5.js": {
+    "file": "assets/PurchaseModal-34ca6ee5.js",
+    "imports": [
+      "_ecommerce-8a3dfd9f.js",
+      "_bootstrap-9979bcf7.js",
+      "_flowbite-vue-3e651750.js",
+      "_wallets-5d4d7fa5.js"
+    ]
+  },
+  "_TransactionTypeMain-9514127c.js": {
+    "file": "assets/TransactionTypeMain-9514127c.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_TransferModal-0ed9818d.js": {
+    "file": "assets/TransferModal-0ed9818d.js",
+    "imports": [
+      "_wallets-5d4d7fa5.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_bootstrap-9979bcf7.js",
+      "_flowbite-vue-3e651750.js",
+      "_TransactionTypeMain-9514127c.js"
+    ]
+  },
+  "__commonjsHelpers-de833af9.js": {
+    "file": "assets/_commonjsHelpers-de833af9.js"
+  },
+  "_animate.es-2c05a558.js": {
+    "file": "assets/animate.es-2c05a558.js"
+  },
+  "_axios-4a70c6fc.js": {
+    "file": "assets/axios-4a70c6fc.js"
+  },
+  "_binary-c4069bb8.js": {
+    "file": "assets/binary-c4069bb8.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_bootstrap-9979bcf7.js": {
+    "css": [
+      "assets/bootstrap-fc0de13c.css"
+    ],
+    "dynamicImports": [
+      "resources/lang/ar.json",
+      "resources/lang/bn.json",
+      "resources/lang/de.json",
+      "resources/lang/es.json",
+      "resources/lang/fa.json",
+      "resources/lang/fr.json",
+      "resources/lang/hi.json",
+      "resources/lang/hu.json",
+      "resources/lang/id.json",
+      "resources/lang/it.json",
+      "resources/lang/ja.json",
+      "resources/lang/ko.json",
+      "resources/lang/nb.json",
+      "resources/lang/nl.json",
+      "resources/lang/pl.json",
+      "resources/lang/pt.json",
+      "resources/lang/ru.json",
+      "resources/lang/th.json",
+      "resources/lang/tr.json",
+      "resources/lang/uk.json",
+      "resources/lang/ur.json",
+      "resources/lang/vi.json",
+      "resources/lang/zh.json"
+    ],
+    "file": "assets/bootstrap-9979bcf7.js",
+    "imports": [
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ]
+  },
+  "_bot-b5d6ef8b.js": {
+    "file": "assets/bot-b5d6ef8b.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_browser-77dd377d.js": {
+    "file": "assets/browser-77dd377d.js"
+  },
+  "_datafeed-d62ae98f.js": {
+    "file": "assets/datafeed-d62ae98f.js",
+    "imports": [
+      "__commonjsHelpers-de833af9.js"
+    ]
+  },
+  "_ecommerce-8a3dfd9f.js": {
+    "file": "assets/ecommerce-8a3dfd9f.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_flowbite-vue-3e651750.js": {
+    "file": "assets/flowbite-vue-3e651750.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_ico-d2268f27.js": {
+    "file": "assets/ico-d2268f27.js",
+    "imports": [
+      "__commonjsHelpers-de833af9.js",
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_index-2b0896fd.js": {
+    "dynamicImports": [
+      "node_modules/@walletconnect/modal-ui/dist/index.js"
+    ],
+    "file": "assets/index-2b0896fd.js",
+    "imports": [
+      "_preload-helper-f61836a9.js",
+      "_index-a526c5e9.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_index-a526c5e9.js": {
+    "dynamicImports": [
+      "node_modules/@walletconnect/ethereum-provider/dist/index.es.js",
+      "node_modules/@web3modal/ui/dist/index.js"
+    ],
+    "file": "assets/index-a526c5e9.js",
+    "imports": [
+      "__commonjsHelpers-de833af9.js",
+      "_preload-helper-f61836a9.js"
+    ]
+  },
+  "_index-dc8c00ce.js": {
+    "file": "assets/index-dc8c00ce.js"
+  },
+  "_kyc-22a50f4e.js": {
+    "file": "assets/kyc-22a50f4e.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_log-1285ac33.js": {
+    "file": "assets/log-1285ac33.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_market-4a8d5095.js": {
+    "file": "assets/market-4a8d5095.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_orders-b758937e.js": {
+    "file": "assets/orders-b758937e.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_preload-helper-f61836a9.js": {
+    "file": "assets/preload-helper-f61836a9.js"
+  },
+  "_sellers-0b40bbdc.js": {
+    "file": "assets/sellers-0b40bbdc.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_axios-4a70c6fc.js"
+    ]
+  },
+  "_staking-09287c3c.js": {
+    "file": "assets/staking-09287c3c.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_toDate-035af62a.js": {
+    "file": "assets/toDate-035af62a.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_toMoney-eef014ed.js": {
+    "file": "assets/toMoney-eef014ed.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_user-4c9e2e6d.js": {
+    "file": "assets/user-4c9e2e6d.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "_wallets-5d4d7fa5.js": {
+    "file": "assets/wallets-5d4d7fa5.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js"
+    ]
+  },
+  "bootstrap.css": {
+    "file": "assets/bootstrap-fc0de13c.css",
+    "src": "bootstrap.css"
+  },
+  "node_modules/@walletconnect/ethereum-provider/dist/index.es.js": {
+    "dynamicImports": [
+      "_index-2b0896fd.js"
+    ],
+    "file": "assets/index.es-b4d9427c.js",
+    "imports": [
+      "_preload-helper-f61836a9.js",
+      "__commonjsHelpers-de833af9.js",
+      "_index-a526c5e9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/@walletconnect/ethereum-provider/dist/index.es.js"
+  },
+  "node_modules/@walletconnect/modal-ui/dist/index.js": {
+    "file": "assets/index-5fe9547c.js",
+    "imports": [
+      "_animate.es-2c05a558.js",
+      "_index-2b0896fd.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_index-a526c5e9.js",
+      "__commonjsHelpers-de833af9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/@walletconnect/modal-ui/dist/index.js"
+  },
+  "node_modules/@web3modal/ui/dist/index.js": {
+    "file": "assets/index-a7af6ec2.js",
+    "imports": [
+      "_animate.es-2c05a558.js",
+      "_index-a526c5e9.js",
+      "_browser-77dd377d.js",
+      "__commonjsHelpers-de833af9.js",
+      "_preload-helper-f61836a9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/@web3modal/ui/dist/index.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-de93df9e.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/kyc.css": {
+    "file": "assets/kyc-f5b8a2f9.css",
+    "isEntry": true,
+    "src": "resources/css/kyc.css"
+  },
+  "resources/css/user.css": {
+    "file": "assets/user-0222ffe6.css",
+    "isEntry": true,
+    "src": "resources/css/user.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-d978d669.js",
+    "imports": [
+      "__commonjsHelpers-de833af9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/dark-mode.js": {
+    "file": "assets/dark-mode-f646fbfd.js",
+    "isEntry": true,
+    "src": "resources/js/dark-mode.js"
+  },
+  "resources/js/sidebar.js": {
+    "file": "assets/sidebar-e8ed7e48.js",
+    "isEntry": true,
+    "src": "resources/js/sidebar.js"
+  },
+  "resources/lang/ar.json": {
+    "file": "assets/ar-4a8efb77.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/ar.json"
+  },
+  "resources/lang/bn.json": {
+    "file": "assets/bn-5d752500.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/bn.json"
+  },
+  "resources/lang/de.json": {
+    "file": "assets/de-298c4764.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/de.json"
+  },
+  "resources/lang/es.json": {
+    "file": "assets/es-f8075db0.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/es.json"
+  },
+  "resources/lang/fa.json": {
+    "file": "assets/fa-5041c6e1.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/fa.json"
+  },
+  "resources/lang/fr.json": {
+    "file": "assets/fr-228060f5.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/fr.json"
+  },
+  "resources/lang/hi.json": {
+    "file": "assets/hi-56c7c073.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/hi.json"
+  },
+  "resources/lang/hu.json": {
+    "file": "assets/hu-f69b9596.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/hu.json"
+  },
+  "resources/lang/id.json": {
+    "file": "assets/id-d9ed1338.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/id.json"
+  },
+  "resources/lang/it.json": {
+    "file": "assets/it-95967c30.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/it.json"
+  },
+  "resources/lang/ja.json": {
+    "file": "assets/ja-fe5b242b.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/ja.json"
+  },
+  "resources/lang/ko.json": {
+    "file": "assets/ko-009d8380.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/ko.json"
+  },
+  "resources/lang/nb.json": {
+    "file": "assets/nb-455d64a3.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/nb.json"
+  },
+  "resources/lang/nl.json": {
+    "file": "assets/nl-beb2240c.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/nl.json"
+  },
+  "resources/lang/pl.json": {
+    "file": "assets/pl-b0fad84c.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/pl.json"
+  },
+  "resources/lang/pt.json": {
+    "file": "assets/pt-7a7a739d.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/pt.json"
+  },
+  "resources/lang/ru.json": {
+    "file": "assets/ru-d523f749.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/ru.json"
+  },
+  "resources/lang/th.json": {
+    "file": "assets/th-07a35c0e.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/th.json"
+  },
+  "resources/lang/tr.json": {
+    "file": "assets/tr-52ad5f43.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/tr.json"
+  },
+  "resources/lang/uk.json": {
+    "file": "assets/uk-51e550e9.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/uk.json"
+  },
+  "resources/lang/ur.json": {
+    "file": "assets/ur-1ecf969e.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/ur.json"
+  },
+  "resources/lang/vi.json": {
+    "file": "assets/vi-aab56702.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/vi.json"
+  },
+  "resources/lang/zh.json": {
+    "file": "assets/zh-30a25aea.js",
+    "isDynamicEntry": true,
+    "src": "resources/lang/zh.json"
+  },
+  "resources/src/extensions/Forex/Forex.css": {
+    "file": "assets/Forex-ad26a4d9.css",
+    "src": "resources/src/extensions/Forex/Forex.css"
+  },
+  "resources/src/extensions/Forex/Forex.vue": {
+    "css": [
+      "assets/Forex-ad26a4d9.css"
+    ],
+    "file": "assets/Forex-71a79c15.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_user-4c9e2e6d.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_flowbite-vue-3e651750.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/Forex/Forex.vue"
+  },
+  "resources/src/extensions/Forex/Trading.vue": {
+    "file": "assets/Trading-69fab619.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/Forex/Trading.vue"
+  },
+  "resources/src/extensions/bot/BotTradePage.css": {
+    "file": "assets/trading-9c213ba0.css",
+    "src": "resources/src/extensions/bot/BotTradePage.css"
+  },
+  "resources/src/extensions/bot/BotTradePage.vue": {
+    "css": [
+      "assets/trading-9c213ba0.css",
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "dynamicImports": [
+      "resources/src/main/trading/Tradingview.vue",
+      "resources/src/extensions/eco/components/Tradingview.vue"
+    ],
+    "file": "assets/BotTradePage-3182a1f2.js",
+    "imports": [
+      "_preload-helper-f61836a9.js",
+      "_flowbite-vue-3e651750.js",
+      "resources/src/main/trading/Marketinfo.vue",
+      "resources/src/main/trading/Orderbook.vue",
+      "_Markets-ba73e845.js",
+      "_bootstrap-9979bcf7.js",
+      "_user-4c9e2e6d.js",
+      "_market-4a8d5095.js",
+      "_bot-b5d6ef8b.js",
+      "_LoadingCircles-fe2f796e.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_axios-4a70c6fc.js",
+      "_ListItem-0775ff45.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/bot/BotTradePage.vue"
+  },
+  "resources/src/extensions/bot/Bots.vue": {
+    "file": "assets/Bots-e5b08730.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_bot-b5d6ef8b.js",
+      "_user-4c9e2e6d.js",
+      "resources/src/user.js",
+      "_bootstrap-9979bcf7.js",
+      "_preload-helper-f61836a9.js",
+      "_flowbite-vue-3e651750.js",
+      "__commonjsHelpers-de833af9.js",
+      "_axios-4a70c6fc.js",
+      "_browser-77dd377d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/bot/Bots.vue"
+  },
+  "resources/src/extensions/builder/PageBuilder.vue": {
+    "file": "assets/PageBuilder-1b84c0d2.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/builder/PageBuilder.vue"
+  },
+  "resources/src/extensions/eco/EcoTrading.css": {
+    "file": "assets/EcoTrading-dddc401f.css",
+    "src": "resources/src/extensions/eco/EcoTrading.css"
+  },
+  "resources/src/extensions/eco/EcoTrading.vue": {
+    "css": [
+      "assets/EcoTrading-dddc401f.css",
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "file": "assets/EcoTrading-f74bee84.js",
+    "imports": [
+      "_Markets-ba73e845.js",
+      "_market-4a8d5095.js",
+      "_bootstrap-9979bcf7.js",
+      "_datafeed-d62ae98f.js",
+      "_flowbite-vue-3e651750.js",
+      "_user-4c9e2e6d.js",
+      "_PriceInput-9a4e96a7.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_ListItem-0775ff45.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/eco/EcoTrading.vue"
+  },
+  "resources/src/extensions/eco/components/Tradingview.vue": {
+    "file": "assets/Tradingview-dd903123.js",
+    "imports": [
+      "_datafeed-d62ae98f.js",
+      "_market-4a8d5095.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/eco/components/Tradingview.vue"
+  },
+  "resources/src/extensions/ecommerce/Index.vue": {
+    "file": "assets/Index-886a9a8d.js",
+    "imports": [
+      "_ProductCard-9894df8d.js",
+      "_bootstrap-9979bcf7.js",
+      "_ecommerce-8a3dfd9f.js",
+      "_PurchaseModal-34ca6ee5.js",
+      "_flowbite-vue-3e651750.js",
+      "_wallets-5d4d7fa5.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/ecommerce/Index.vue"
+  },
+  "resources/src/extensions/ecommerce/OrderHistory.vue": {
+    "file": "assets/OrderHistory-97dc4048.js",
+    "imports": [
+      "_flowbite-vue-3e651750.js",
+      "_ecommerce-8a3dfd9f.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/ecommerce/OrderHistory.vue"
+  },
+  "resources/src/extensions/ecommerce/Wishlist.vue": {
+    "file": "assets/Wishlist-39ecd093.js",
+    "imports": [
+      "_ProductCard-9894df8d.js",
+      "_ecommerce-8a3dfd9f.js",
+      "_bootstrap-9979bcf7.js",
+      "_PurchaseModal-34ca6ee5.js",
+      "_flowbite-vue-3e651750.js",
+      "_wallets-5d4d7fa5.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/ecommerce/Wishlist.vue"
+  },
+  "resources/src/extensions/ecommerce/components/ProductInfo.css": {
+    "file": "assets/ProductInfo-e5837065.css",
+    "src": "resources/src/extensions/ecommerce/components/ProductInfo.css"
+  },
+  "resources/src/extensions/ecommerce/components/ProductInfo.vue": {
+    "css": [
+      "assets/ProductInfo-e5837065.css"
+    ],
+    "file": "assets/ProductInfo-7c2dcee7.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_PurchaseModal-34ca6ee5.js",
+      "_ecommerce-8a3dfd9f.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js",
+      "_flowbite-vue-3e651750.js",
+      "_wallets-5d4d7fa5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/ecommerce/components/ProductInfo.vue"
+  },
+  "resources/src/extensions/futures/Trading.css": {
+    "file": "assets/Trading-fca93f10.css",
+    "src": "resources/src/extensions/futures/Trading.css"
+  },
+  "resources/src/extensions/futures/Trading.vue": {
+    "css": [
+      "assets/Trading-fca93f10.css",
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "dynamicImports": [
+      "resources/src/main/trading/Tradingview.vue",
+      "resources/src/extensions/eco/components/Tradingview.vue"
+    ],
+    "file": "assets/Trading-98a2cdb0.js",
+    "imports": [
+      "_preload-helper-f61836a9.js",
+      "_Markets-ba73e845.js",
+      "resources/src/main/trading/Trades.vue",
+      "resources/src/main/trading/Marketinfo.vue",
+      "_flowbite-vue-3e651750.js",
+      "_market-4a8d5095.js",
+      "_wallets-5d4d7fa5.js",
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "_PriceInput-9a4e96a7.js",
+      "_Col-4463c6d7.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "resources/src/main/trading/Orderbook.vue",
+      "_LoadingCircles-fe2f796e.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_axios-4a70c6fc.js",
+      "_ListItem-0775ff45.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/futures/Trading.vue"
+  },
+  "resources/src/extensions/futures/WalletDetail.vue": {
+    "file": "assets/WalletDetail-1bca07b8.js",
+    "imports": [
+      "_wallets-5d4d7fa5.js",
+      "_TransferModal-0ed9818d.js",
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_flowbite-vue-3e651750.js",
+      "_TransactionTypeMain-9514127c.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/futures/WalletDetail.vue"
+  },
+  "resources/src/extensions/ico/ICO.vue": {
+    "file": "assets/ICO-fc84be37.js",
+    "imports": [
+      "_ico-d2268f27.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_user-4c9e2e6d.js",
+      "_flowbite-vue-3e651750.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/ico/ICO.vue"
+  },
+  "resources/src/extensions/ico/ICODetails.vue": {
+    "file": "assets/ICODetails-67a76946.js",
+    "imports": [
+      "_flowbite-vue-3e651750.js",
+      "_ico-d2268f27.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/ico/ICODetails.vue"
+  },
+  "resources/src/extensions/knowledge/Article.vue": {
+    "file": "assets/Article-4c391843.js",
+    "imports": [
+      "_toDate-035af62a.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/knowledge/Article.vue"
+  },
+  "resources/src/extensions/knowledge/Categories.css": {
+    "file": "assets/Categories-a3db3060.css",
+    "src": "resources/src/extensions/knowledge/Categories.css"
+  },
+  "resources/src/extensions/knowledge/Categories.vue": {
+    "css": [
+      "assets/Categories-a3db3060.css"
+    ],
+    "file": "assets/Categories-b66a5d7f.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/knowledge/Categories.vue"
+  },
+  "resources/src/extensions/knowledge/Faq.css": {
+    "file": "assets/Faq-49fab493.css",
+    "src": "resources/src/extensions/knowledge/Faq.css"
+  },
+  "resources/src/extensions/knowledge/Faq.vue": {
+    "css": [
+      "assets/Faq-49fab493.css"
+    ],
+    "file": "assets/Faq-d6f0f778.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/knowledge/Faq.vue"
+  },
+  "resources/src/extensions/knowledge/FaqSearch.css": {
+    "file": "assets/FaqSearch-ecb7f8ad.css",
+    "src": "resources/src/extensions/knowledge/FaqSearch.css"
+  },
+  "resources/src/extensions/knowledge/FaqSearch.vue": {
+    "css": [
+      "assets/FaqSearch-ecb7f8ad.css"
+    ],
+    "file": "assets/FaqSearch-038b7280.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/knowledge/FaqSearch.vue"
+  },
+  "resources/src/extensions/knowledge/Index.css": {
+    "file": "assets/Index-bc6b6778.css",
+    "src": "resources/src/extensions/knowledge/Index.css"
+  },
+  "resources/src/extensions/knowledge/Index.vue": {
+    "css": [
+      "assets/Index-bc6b6778.css"
+    ],
+    "file": "assets/Index-8f81d818.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/knowledge/Index.vue"
+  },
+  "resources/src/extensions/knowledge/Tags.css": {
+    "file": "assets/Tags-68976b7b.css",
+    "src": "resources/src/extensions/knowledge/Tags.css"
+  },
+  "resources/src/extensions/knowledge/Tags.vue": {
+    "css": [
+      "assets/Tags-68976b7b.css"
+    ],
+    "file": "assets/Tags-eb751e9f.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/knowledge/Tags.vue"
+  },
+  "resources/src/extensions/mlm/Referral.vue": {
+    "file": "assets/Referral-a597993e.js",
+    "imports": [
+      "_flowbite-vue-3e651750.js",
+      "resources/src/partials/Refer.vue",
+      "_bootstrap-9979bcf7.js",
+      "_user-4c9e2e6d.js",
+      "__commonjsHelpers-de833af9.js",
+      "_toDate-035af62a.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/mlm/Referral.vue"
+  },
+  "resources/src/extensions/p2p/Index.css": {
+    "file": "assets/Index-fc3e5baf.css",
+    "src": "resources/src/extensions/p2p/Index.css"
+  },
+  "resources/src/extensions/p2p/Index.vue": {
+    "css": [
+      "assets/Index-fc3e5baf.css"
+    ],
+    "file": "assets/Index-0302ee15.js",
+    "imports": [
+      "_orders-b758937e.js",
+      "_bootstrap-9979bcf7.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_flowbite-vue-3e651750.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/p2p/Index.vue"
+  },
+  "resources/src/extensions/p2p/Order.vue": {
+    "file": "assets/Order-db6d5092.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_user-4c9e2e6d.js",
+      "_flowbite-vue-3e651750.js",
+      "_sellers-0b40bbdc.js",
+      "_orders-b758937e.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/p2p/Order.vue"
+  },
+  "resources/src/extensions/p2p/Seller.css": {
+    "file": "assets/Seller-efa058a9.css",
+    "src": "resources/src/extensions/p2p/Seller.css"
+  },
+  "resources/src/extensions/p2p/Seller.vue": {
+    "css": [
+      "assets/Seller-efa058a9.css"
+    ],
+    "file": "assets/Seller-5f7a5e89.js",
+    "imports": [
+      "_sellers-0b40bbdc.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_flowbite-vue-3e651750.js",
+      "_bootstrap-9979bcf7.js",
+      "_axios-4a70c6fc.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/p2p/Seller.vue"
+  },
+  "resources/src/extensions/p2p/UserOrders.vue": {
+    "file": "assets/UserOrders-52cff21e.js",
+    "imports": [
+      "_orders-b758937e.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_toDate-035af62a.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/p2p/UserOrders.vue"
+  },
+  "resources/src/extensions/staking/Staking.vue": {
+    "file": "assets/Staking-20a34548.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_staking-09287c3c.js",
+      "_user-4c9e2e6d.js",
+      "_flowbite-vue-3e651750.js",
+      "_ButtonLoading-97716eba.js",
+      "resources/src/user.js",
+      "_bootstrap-9979bcf7.js",
+      "_preload-helper-f61836a9.js",
+      "__commonjsHelpers-de833af9.js",
+      "_axios-4a70c6fc.js",
+      "_browser-77dd377d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/staking/Staking.vue"
+  },
+  "resources/src/extensions/staking/StakingLogs.vue": {
+    "file": "assets/StakingLogs-aa40102f.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_staking-09287c3c.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/staking/StakingLogs.vue"
+  },
+  "resources/src/extensions/swap/index.vue": {
+    "file": "assets/index-288f5285.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/extensions/swap/index.vue"
+  },
+  "resources/src/frontend/trading.css": {
+    "file": "assets/trading-9c213ba0.css",
+    "src": "resources/src/extensions/bot/BotTradePage.css"
+  },
+  "resources/src/frontend/trading.js": {
+    "css": [
+      "assets/trading-9c213ba0.css"
+    ],
+    "dynamicImports": [
+      "_Markets-ba73e845.js",
+      "resources/src/main/trading/Trades.vue",
+      "resources/src/main/trading/Marketinfo.vue",
+      "resources/src/main/trading/Tradingview.vue",
+      "resources/src/extensions/eco/components/Tradingview.vue",
+      "resources/src/main/trading/Order.vue",
+      "resources/src/main/trading/Orders.vue",
+      "resources/src/main/trading/Orderbook.vue",
+      "resources/src/extensions/eco/EcoTrading.vue"
+    ],
+    "file": "assets/trading-1a1ae451.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_preload-helper-f61836a9.js",
+      "_market-4a8d5095.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isEntry": true,
+    "src": "resources/src/frontend/trading.js"
+  },
+  "resources/src/login.js": {
+    "file": "assets/login-e1827b8f.js",
+    "imports": [
+      "_index-a526c5e9.js",
+      "__commonjsHelpers-de833af9.js",
+      "_preload-helper-f61836a9.js"
+    ],
+    "isEntry": true,
+    "src": "resources/src/login.js"
+  },
+  "resources/src/main/Api.vue": {
+    "file": "assets/Api-79cbacb3.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Api.vue"
+  },
+  "resources/src/main/Dashboard.css": {
+    "file": "assets/Dashboard-9a5165fc.css",
+    "src": "resources/src/main/Dashboard.css"
+  },
+  "resources/src/main/Dashboard.vue": {
+    "css": [
+      "assets/Dashboard-9a5165fc.css"
+    ],
+    "file": "assets/Dashboard-9e200f3f.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_bootstrap-9979bcf7.js",
+      "_market-4a8d5095.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Dashboard.vue"
+  },
+  "resources/src/main/Identification.css": {
+    "file": "assets/Identification-51aac514.css",
+    "src": "resources/src/main/Identification.css"
+  },
+  "resources/src/main/Identification.vue": {
+    "css": [
+      "assets/Identification-51aac514.css"
+    ],
+    "file": "assets/Identification-a25c265b.js",
+    "imports": [
+      "_user-4c9e2e6d.js",
+      "_kyc-22a50f4e.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Identification.vue"
+  },
+  "resources/src/main/Investments.vue": {
+    "file": "assets/Investments-4518af4b.js",
+    "imports": [
+      "resources/src/user.js",
+      "_bootstrap-9979bcf7.js",
+      "_flowbite-vue-3e651750.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_wallets-5d4d7fa5.js",
+      "_ButtonLoading-97716eba.js",
+      "_user-4c9e2e6d.js",
+      "_preload-helper-f61836a9.js",
+      "__commonjsHelpers-de833af9.js",
+      "_axios-4a70c6fc.js",
+      "_browser-77dd377d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Investments.vue"
+  },
+  "resources/src/main/News.css": {
+    "file": "assets/News-0c9431e5.css",
+    "src": "resources/src/main/News.css"
+  },
+  "resources/src/main/News.vue": {
+    "css": [
+      "assets/News-0c9431e5.css"
+    ],
+    "file": "assets/News-c721152e.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/News.vue"
+  },
+  "resources/src/main/Plan.vue": {
+    "file": "assets/Plan-e226f6c5.js",
+    "imports": [
+      "resources/src/user.js",
+      "_bootstrap-9979bcf7.js",
+      "_preload-helper-f61836a9.js",
+      "_user-4c9e2e6d.js",
+      "_flowbite-vue-3e651750.js",
+      "__commonjsHelpers-de833af9.js",
+      "_axios-4a70c6fc.js",
+      "_browser-77dd377d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Plan.vue"
+  },
+  "resources/src/main/Trade.css": {
+    "file": "assets/Trade-15759a7c.css",
+    "src": "resources/src/main/Trade.css"
+  },
+  "resources/src/main/Trade.vue": {
+    "css": [
+      "assets/Trade-15759a7c.css"
+    ],
+    "file": "assets/Trade-d8797f42.js",
+    "imports": [
+      "resources/src/user.js",
+      "_bootstrap-9979bcf7.js",
+      "_preload-helper-f61836a9.js",
+      "_user-4c9e2e6d.js",
+      "_flowbite-vue-3e651750.js",
+      "__commonjsHelpers-de833af9.js",
+      "_axios-4a70c6fc.js",
+      "_browser-77dd377d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Trade.vue"
+  },
+  "resources/src/main/Trading.css": {
+    "file": "assets/trading-9c213ba0.css",
+    "src": "resources/src/extensions/bot/BotTradePage.css"
+  },
+  "resources/src/main/Trading.vue": {
+    "css": [
+      "assets/trading-9c213ba0.css"
+    ],
+    "dynamicImports": [
+      "_Markets-ba73e845.js",
+      "resources/src/main/trading/Trades.vue",
+      "resources/src/main/trading/Marketinfo.vue",
+      "resources/src/main/trading/Tradingview.vue",
+      "resources/src/extensions/eco/components/Tradingview.vue",
+      "resources/src/main/trading/Order.vue",
+      "resources/src/main/trading/Orders.vue",
+      "resources/src/main/trading/Orderbook.vue"
+    ],
+    "file": "assets/Trading-b756de65.js",
+    "imports": [
+      "_preload-helper-f61836a9.js",
+      "_user-4c9e2e6d.js",
+      "_market-4a8d5095.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Trading.vue"
+  },
+  "resources/src/main/Wallets.vue": {
+    "file": "assets/Wallets-d053ea01.js",
+    "imports": [
+      "_wallets-5d4d7fa5.js",
+      "_bootstrap-9979bcf7.js",
+      "_Filter-f10b47ed.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/Wallets.vue"
+  },
+  "resources/src/main/binary/Binary.vue": {
+    "dynamicImports": [
+      "resources/src/main/binary/components/cards/BinaryWelcomeCard.vue",
+      "resources/src/main/binary/components/cards/BinaryEarningsCard.vue",
+      "resources/src/main/binary/components/cards/BinaryPracticeBalanceCard.vue",
+      "resources/src/main/binary/components/grids/StatisticGrid.vue",
+      "resources/src/partials/TransactionCard.vue",
+      "resources/src/partials/TransactionItem.vue",
+      "resources/src/partials/KYC.vue",
+      "resources/src/partials/Refer.vue"
+    ],
+    "file": "assets/Binary-7ad043d2.js",
+    "imports": [
+      "_preload-helper-f61836a9.js",
+      "_bootstrap-9979bcf7.js",
+      "_toMoney-eef014ed.js",
+      "_binary-c4069bb8.js",
+      "_user-4c9e2e6d.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/Binary.vue"
+  },
+  "resources/src/main/binary/BinaryTrading.css": {
+    "file": "assets/trading-9c213ba0.css",
+    "src": "resources/src/extensions/bot/BotTradePage.css"
+  },
+  "resources/src/main/binary/BinaryTrading.vue": {
+    "css": [
+      "assets/trading-9c213ba0.css",
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "dynamicImports": [
+      "resources/src/main/trading/Tradingview.vue",
+      "resources/src/extensions/eco/components/Tradingview.vue"
+    ],
+    "file": "assets/BinaryTrading-0eae8f41.js",
+    "imports": [
+      "_preload-helper-f61836a9.js",
+      "_bootstrap-9979bcf7.js",
+      "_user-4c9e2e6d.js",
+      "_market-4a8d5095.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "resources/src/main/trading/Marketinfo.vue",
+      "resources/src/main/trading/Orderbook.vue",
+      "_Markets-ba73e845.js",
+      "_index-dc8c00ce.js",
+      "resources/src/main/trading/Trades.vue",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_axios-4a70c6fc.js",
+      "_LoadingCircles-fe2f796e.js",
+      "_ListItem-0775ff45.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/BinaryTrading.vue"
+  },
+  "resources/src/main/binary/components/cards/BinaryEarningsCard.vue": {
+    "file": "assets/BinaryEarningsCard-489bd9f4.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/components/cards/BinaryEarningsCard.vue"
+  },
+  "resources/src/main/binary/components/cards/BinaryPracticeBalanceCard.vue": {
+    "file": "assets/BinaryPracticeBalanceCard-6f9df899.js",
+    "imports": [
+      "_flowbite-vue-3e651750.js",
+      "_toMoney-eef014ed.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/components/cards/BinaryPracticeBalanceCard.vue"
+  },
+  "resources/src/main/binary/components/cards/BinaryWelcomeCard.vue": {
+    "file": "assets/BinaryWelcomeCard-d4230e54.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/components/cards/BinaryWelcomeCard.vue"
+  },
+  "resources/src/main/binary/components/grids/StatisticGrid.vue": {
+    "file": "assets/StatisticGrid-0508ba04.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/components/grids/StatisticGrid.vue"
+  },
+  "resources/src/main/binary/logs/Practice.vue": {
+    "file": "assets/Practice-872e521d.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_binary-c4069bb8.js",
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/logs/Practice.vue"
+  },
+  "resources/src/main/binary/logs/Preview.css": {
+    "file": "assets/Preview-77e3b125.css",
+    "src": "resources/src/main/binary/logs/Preview.css"
+  },
+  "resources/src/main/binary/logs/Preview.vue": {
+    "css": [
+      "assets/Preview-77e3b125.css"
+    ],
+    "file": "assets/Preview-02b27f49.js",
+    "imports": [
+      "_index-dc8c00ce.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/logs/Preview.vue"
+  },
+  "resources/src/main/binary/logs/Trade.vue": {
+    "file": "assets/Trade-77be5518.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_binary-c4069bb8.js",
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/binary/logs/Trade.vue"
+  },
+  "resources/src/main/identification/KycApplication.css": {
+    "file": "assets/KycApplication-bc6d7db3.css",
+    "src": "resources/src/main/identification/KycApplication.css"
+  },
+  "resources/src/main/identification/KycApplication.vue": {
+    "css": [
+      "assets/KycApplication-bc6d7db3.css"
+    ],
+    "file": "assets/KycApplication-28bc8da9.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_axios-4a70c6fc.js",
+      "_kyc-22a50f4e.js",
+      "_user-4c9e2e6d.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/identification/KycApplication.vue"
+  },
+  "resources/src/main/logs/Deposit.vue": {
+    "file": "assets/Deposit-d5163cf9.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_log-1285ac33.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/logs/Deposit.vue"
+  },
+  "resources/src/main/logs/Transactions.vue": {
+    "file": "assets/Transactions-f094bdb3.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_log-1285ac33.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/logs/Transactions.vue"
+  },
+  "resources/src/main/logs/Withdraw.vue": {
+    "file": "assets/Withdraw-805ae22b.js",
+    "imports": [
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_log-1285ac33.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/logs/Withdraw.vue"
+  },
+  "resources/src/main/support/ChatPage.css": {
+    "file": "assets/ChatPage-a466c853.css",
+    "src": "resources/src/main/support/ChatPage.css"
+  },
+  "resources/src/main/support/ChatPage.vue": {
+    "css": [
+      "assets/ChatPage-a466c853.css"
+    ],
+    "file": "assets/ChatPage-cc5c5243.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/support/ChatPage.vue"
+  },
+  "resources/src/main/support/NewTicket.vue": {
+    "file": "assets/NewTicket-eb5acab6.js",
+    "imports": [
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/support/NewTicket.vue"
+  },
+  "resources/src/main/support/Support.vue": {
+    "file": "assets/Support-86a0adea.js",
+    "imports": [
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/support/Support.vue"
+  },
+  "resources/src/main/trading/Marketinfo.css": {
+    "file": "assets/Marketinfo-536790f3.css",
+    "src": "resources/src/main/trading/Marketinfo.css"
+  },
+  "resources/src/main/trading/Marketinfo.vue": {
+    "css": [
+      "assets/Marketinfo-536790f3.css",
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "file": "assets/Marketinfo-49164d44.js",
+    "imports": [
+      "_market-4a8d5095.js",
+      "_LoadingCircles-fe2f796e.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/trading/Marketinfo.vue"
+  },
+  "resources/src/main/trading/Order.css": {
+    "file": "assets/Order-0745f0d9.css",
+    "src": "resources/src/main/trading/Order.css"
+  },
+  "resources/src/main/trading/Order.vue": {
+    "css": [
+      "assets/Order-0745f0d9.css"
+    ],
+    "file": "assets/Order-9d844156.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_flowbite-vue-3e651750.js",
+      "_market-4a8d5095.js",
+      "_user-4c9e2e6d.js",
+      "_PriceInput-9a4e96a7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/trading/Order.vue"
+  },
+  "resources/src/main/trading/Orderbook.vue": {
+    "css": [
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "file": "assets/Orderbook-4904c1cf.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_ListItem-0775ff45.js",
+      "_market-4a8d5095.js",
+      "_LoadingCircles-fe2f796e.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/trading/Orderbook.vue"
+  },
+  "resources/src/main/trading/Orders.vue": {
+    "file": "assets/Orders-f7a33bad.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_flowbite-vue-3e651750.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_market-4a8d5095.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/trading/Orders.vue"
+  },
+  "resources/src/main/trading/Trades.vue": {
+    "css": [
+      "assets/LoadingCircles-9ea86c11.css"
+    ],
+    "file": "assets/Trades-4e3843fc.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_market-4a8d5095.js",
+      "_LoadingCircles-fe2f796e.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/trading/Trades.vue"
+  },
+  "resources/src/main/trading/Tradingview.vue": {
+    "file": "assets/Tradingview-0cf0d1fe.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/trading/Tradingview.vue"
+  },
+  "resources/src/main/wallets/MainWalletDetail.vue": {
+    "file": "assets/MainWalletDetail-b8588ee0.js",
+    "imports": [
+      "_flowbite-vue-3e651750.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_bootstrap-9979bcf7.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_wallets-5d4d7fa5.js",
+      "_TransactionTypeMain-9514127c.js",
+      "resources/src/user.js",
+      "_user-4c9e2e6d.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/wallets/MainWalletDetail.vue"
+  },
+  "resources/src/main/wallets/WalletDetail.css": {
+    "file": "assets/WalletDetail-2594f4e5.css",
+    "src": "resources/src/main/wallets/WalletDetail.css"
+  },
+  "resources/src/main/wallets/WalletDetail.vue": {
+    "css": [
+      "assets/WalletDetail-2594f4e5.css"
+    ],
+    "file": "assets/WalletDetail-eed7f03f.js",
+    "imports": [
+      "_wallets-5d4d7fa5.js",
+      "_TransferModal-0ed9818d.js",
+      "_flowbite-vue-3e651750.js",
+      "_bootstrap-9979bcf7.js",
+      "_user-4c9e2e6d.js",
+      "resources/src/user.js",
+      "_toMoney-eef014ed.js",
+      "_toDate-035af62a.js",
+      "_Filter-f10b47ed.js",
+      "_Col-4463c6d7.js",
+      "_TransactionTypeMain-9514127c.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/main/wallets/WalletDetail.vue"
+  },
+  "resources/src/partials/KYC.vue": {
+    "file": "assets/KYC-fc90f39a.js",
+    "imports": [
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/partials/KYC.vue"
+  },
+  "resources/src/partials/Refer.vue": {
+    "file": "assets/Refer-1e006600.js",
+    "imports": [
+      "_flowbite-vue-3e651750.js",
+      "_user-4c9e2e6d.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/partials/Refer.vue"
+  },
+  "resources/src/partials/TransactionCard.vue": {
+    "file": "assets/TransactionCard-ebe2f8a7.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/partials/TransactionCard.vue"
+  },
+  "resources/src/partials/TransactionItem.vue": {
+    "file": "assets/TransactionItem-797d52fa.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_browser-77dd377d.js",
+      "_preload-helper-f61836a9.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/partials/TransactionItem.vue"
+  },
+  "resources/src/ui/Login.vue": {
+    "file": "assets/Login-4fa2f594.js",
+    "imports": [
+      "_index-a526c5e9.js",
+      "_bootstrap-9979bcf7.js",
+      "__commonjsHelpers-de833af9.js",
+      "_preload-helper-f61836a9.js",
+      "_browser-77dd377d.js",
+      "_axios-4a70c6fc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/src/ui/Login.vue"
+  },
+  "resources/src/user.css": {
+    "file": "assets/user-39d4b958.css",
+    "src": "resources/src/user.css"
+  },
+  "resources/src/user.js": {
+    "css": [
+      "assets/user-39d4b958.css"
+    ],
+    "dynamicImports": [
+      "resources/src/ui/Login.vue",
+      "resources/src/main/News.vue",
+      "resources/src/main/Dashboard.vue",
+      "resources/src/main/Trading.vue",
+      "resources/src/main/Investments.vue",
+      "resources/src/main/Wallets.vue",
+      "resources/src/main/wallets/WalletDetail.vue",
+      "resources/src/main/wallets/MainWalletDetail.vue",
+      "resources/src/main/logs/Deposit.vue",
+      "resources/src/main/logs/Withdraw.vue",
+      "resources/src/main/logs/Transactions.vue",
+      "resources/src/main/support/Support.vue",
+      "resources/src/main/support/ChatPage.vue",
+      "resources/src/main/support/NewTicket.vue",
+      "resources/src/main/Api.vue",
+      "resources/src/extensions/swap/index.vue",
+      "resources/src/main/Identification.vue",
+      "resources/src/main/identification/KycApplication.vue",
+      "resources/src/main/Trade.vue",
+      "resources/src/main/Plan.vue",
+      "resources/src/main/binary/Binary.vue",
+      "resources/src/main/binary/BinaryTrading.vue",
+      "resources/src/main/binary/logs/Practice.vue",
+      "resources/src/main/binary/logs/Trade.vue",
+      "resources/src/main/binary/logs/Preview.vue",
+      "resources/src/extensions/bot/Bots.vue",
+      "resources/src/extensions/bot/BotTradePage.vue",
+      "resources/src/extensions/ico/ICO.vue",
+      "resources/src/extensions/ico/ICODetails.vue",
+      "resources/src/extensions/mlm/Referral.vue",
+      "resources/src/extensions/Forex/Forex.vue",
+      "resources/src/extensions/Forex/Trading.vue",
+      "resources/src/extensions/staking/Staking.vue",
+      "resources/src/extensions/staking/StakingLogs.vue",
+      "resources/src/extensions/builder/PageBuilder.vue",
+      "resources/src/extensions/eco/EcoTrading.vue",
+      "resources/src/extensions/p2p/Index.vue",
+      "resources/src/extensions/p2p/UserOrders.vue",
+      "resources/src/extensions/p2p/Order.vue",
+      "resources/src/extensions/p2p/Seller.vue",
+      "resources/src/extensions/knowledge/Index.vue",
+      "resources/src/extensions/knowledge/Categories.vue",
+      "resources/src/extensions/knowledge/Tags.vue",
+      "resources/src/extensions/knowledge/Article.vue",
+      "resources/src/extensions/knowledge/Faq.vue",
+      "resources/src/extensions/knowledge/FaqSearch.vue",
+      "resources/src/extensions/ecommerce/Index.vue",
+      "resources/src/extensions/ecommerce/Wishlist.vue",
+      "resources/src/extensions/ecommerce/OrderHistory.vue",
+      "resources/src/extensions/ecommerce/components/ProductInfo.vue",
+      "resources/src/extensions/futures/Trading.vue",
+      "resources/src/extensions/futures/WalletDetail.vue"
+    ],
+    "file": "assets/user-d1c53236.js",
+    "imports": [
+      "_bootstrap-9979bcf7.js",
+      "_preload-helper-f61836a9.js",
+      "_user-4c9e2e6d.js",
+      "_flowbite-vue-3e651750.js",
+      "__commonjsHelpers-de833af9.js",
+      "_axios-4a70c6fc.js",
+      "_browser-77dd377d.js"
+    ],
+    "isEntry": true,
+    "src": "resources/src/user.js"
+  }
+}

@@ -1,0 +1,39 @@
+.elementor-68352 .elementor-element.elementor-element-58035a0{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:flex-start;--background-transition:0.3s;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-68352 .elementor-element.elementor-element-9df8522 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-68352 .elementor-element.elementor-element-76241571{width:100%;max-width:100%;}.elementor-68352 .elementor-element.elementor-element-60742f7a{width:100%;max-width:100%;}.elementor-68352 .elementor-element.elementor-element-60742f7a .elementor-button{fill:var( --e-global-color-1bb9c41 );color:var( --e-global-color-1bb9c41 );background-color:var( --e-global-color-633cddd );}.elementor-68352 .elementor-element.elementor-element-60742f7a .elementor-button:hover, .elementor-68352 .elementor-element.elementor-element-60742f7a .elementor-button:focus{background-color:var( --e-global-color-54715b6 );}.elementor-68352 .elementor-element.elementor-element-7010a71a .elementor-heading-title{color:var( --e-global-color-text );font-size:var( --e-global-typography-2c34f42-font-size );line-height:var( --e-global-typography-2c34f42-line-height );}@media(min-width:696px){.elementor-68352 .elementor-element.elementor-element-58035a0{--content-width:1280px;}}@media(max-width:1024px){.elementor-68352 .elementor-element.elementor-element-58035a0{--margin-top:70px;--margin-bottom:70px;--margin-left:20px;--margin-right:20px;}.elementor-68352 .elementor-element.elementor-element-7010a71a .elementor-heading-title{font-size:var( --e-global-typography-2c34f42-font-size );line-height:var( --e-global-typography-2c34f42-line-height );}}@media(max-width:695px){.elementor-68352 .elementor-element.elementor-element-58035a0{--margin-top:70px;--margin-bottom:70px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-68352 .elementor-element.elementor-element-7010a71a .elementor-heading-title{font-size:var( --e-global-typography-2c34f42-font-size );line-height:var( --e-global-typography-2c34f42-line-height );}}/* Start custom CSS for html, class: .elementor-element-9df8522 */@media (max-width: 695px)
+{
+    .elementor-68352 .elementor-element.elementor-element-58035a0
+    {
+        --margin-block-start: 0px;
+        --margin-block-end: 0px;
+
+    }
+
+}/* End custom CSS */
+/* Start custom CSS *//* Menu Effect */
+.main-menu-black {
+    background-color: black !important;
+}div#main-menu {}
+
+.main-menu-black .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item, .main-menu-black i {
+    color: white !important;
+    fill: white !important;
+}
+
+.main-menu-black .elementor-widget-theme-site-logo {
+    filter: invert(1);
+}
+
+.main-menu-black .search-accordion svg.e-font-icon-svg {
+    fill: white !important;
+}
+
+.hero-form #gform_submit_button_1{
+    background:#0064FF !important;
+}
+
+.hero-form #gform_submit_button_1:hover{
+    background:#003992 !important;
+}
+
+.icon-box:hover .circle-icon .elementor-icon{
+    background: white !important;
+}/* End custom CSS */
